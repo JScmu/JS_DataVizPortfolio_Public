@@ -26,6 +26,7 @@ Here's where all my data visualizations will go.
 
 # Investment Bank League Table - 2019 Fee Revenue Breakdown
  This project is a redesign of a chart produced by the Financial Times. The original design has the total fee revenue shown as a number, while the breakdown by products are shown as a stacked bar chart in percentage. I think it is more useful information to see a scale comparison among these banks by total revenue.
+https://markets.ft.com/data/league-tables/tables-and-trends
 
 ## The first iterations used Infogram to create quick wireframes.
 <script id="infogram_0_8ef1473b-c86c-42d3-bfa1-87eaa8afedec" title="Untitled infographic" src="https://e.infogram.com/js/dist/embed.js?1jr" type="text/javascript"></script><a href="https://infogram.com/8ef1473b-c86c-42d3-bfa1-87eaa8afedec" style="color:#989898!important;text-decoration:none!important;" target="_blank">League Table Wireframe</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a>
