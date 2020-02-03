@@ -26,9 +26,16 @@ Here's where all my data visualizations will go.
 
 # Investment Bank League Table - 2019 Fee Revenue
  This is a redesign of a chart produced by the Financial Times. The original design has the total fee revenue shown as a number, while the breakdown by products are shown as a stacked bar chart in percentage. I think it is more useful information to see a scale comparison among these banks by total revenue.
-The first iteration was a wireframe using Infogram
+The first iterations used Infogram to create quick wireframes.
 <script id="infogram_0_8ef1473b-c86c-42d3-bfa1-87eaa8afedec" title="Untitled infographic" src="https://e.infogram.com/js/dist/embed.js?1jr" type="text/javascript"></script><a href="https://infogram.com/8ef1473b-c86c-42d3-bfa1-87eaa8afedec" style="color:#989898!important;text-decoration:none!important;" target="_blank">League Table Wireframe</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a>
-Final version using feedback given during critique sessions.
+
+## Feedback
+On the first chart, the general feedback revolved around orientation and readability.
+The orientation of the x-axis labels was poorly received because some of the bank names were significantly too long to work in this orientation. The general idea of creating a visual indication of total fee revenue was well received, but the difference in magnitude between each circle was found to be difficult to grasp quickly.
+On the second chart, many of the issues from the first were resolved (bank names moved back to y-axis, total fee revenue shown as a cumulative stacked bar). The most positive feedback I received was on the use of a stacked bar chart to visualize the relative difference in overall fee revenue. The x-axis labels were found to be distracting, and the location of the legend made it more difficult to quickly understand what was being visualized. Additionally, the color scheme was criticized for being "elementary school like", likely due to the use of primary colors. 
+
+ Final version of the data using feedback given during critique sessions.
+ I think this is a much better visualization than the wireframes, and arguably, I think it displays some information that was difficult to interpret in the Financial Times graphic. That being said, the FT graphic has some information that I chose to leave out, so it is a richer and more dense piece of work. Hopefully my work is a respectful and well received redesign of theirs.
 <iframe title="Top Investment Banks by Fee Revenue - 2019" aria-label="Stacked Bars" id="datawrapper-chart-0iDOF" src="//datawrapper.dwcdn.net/0iDOF/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="416"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 https://markets.ft.com/data/league-tables/tables-and-trends 
