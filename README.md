@@ -26,6 +26,11 @@ Here's where all my data visualizations will go.
 
 # Investment Bank League Table - 2019 Fee Revenue
  This is a redesign of a chart produced by the Financial Times. The original design has the total fee revenue shown as a number, while the breakdown by products are shown as a stacked bar chart in percentage. I think it is more useful information to see a scale comparison among these banks by total revenue.
+The first iteration was a wireframe using Infogram
+<iframe src="https://e.infogram.com/8ef1473b-c86c-42d3-bfa1-87eaa8afedec?src=embed" title="Untitled infographic" width="700" height="2200" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 640px"><a href="https://infogram.com/8ef1473b-c86c-42d3-bfa1-87eaa8afedec" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled infographic</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+I showed this to some friends to get their feedback. Much of it was negative.
+My second wireframe attempt also used Infogram.
+
 <iframe title="Top Investment Banks by Fee Revenue - 2019" aria-label="Stacked Bars" id="datawrapper-chart-0iDOF" src="//datawrapper.dwcdn.net/0iDOF/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="416"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 https://markets.ft.com/data/league-tables/tables-and-trends 
