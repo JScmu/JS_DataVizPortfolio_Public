@@ -34,7 +34,15 @@ Call to action: encourage the development of offshore oil and gas when available
 
 ## Initial Sketches
 
-My initial sketches are shown below. They follow the intended story arc, which serves to show that the United States (and world at large) has tremendous energy needs that only increase over time. A transition to renewable energy sources will take time, due to financial constraints and other macro economic factors. In the meantime, drilling offshore will allow for less drilling activity due to the larger reservoir sizes and higher flow rates. Less drilling activity leads to better environmental, health, and safety outcomes. Currently, offshore wind energy is complex and the industry struggles with being profitable. The oil & gas industry has learned many, many hard lessons over the past 50+ years and has a group of professionals with tacit knowledge which could help the offshore wind industry. Partering would get the world "farther along" than continuing to have an adversarial relationship.
+My initial sketches are shown below. They follow the intended story arc, which serves to show that the United States (and world at large) has tremendous energy needs that only increase over time. 
+
+A transition to renewable energy sources will take time, due to financial constraints and other macro economic factors. In the meantime, drilling offshore will allow for less drilling activity due to the larger reservoir sizes and higher flow rates. Less drilling activity leads to better environmental, health, and safety outcomes. 
+
+Currently, offshore wind energy is complex and the industry struggles with being profitable. 
+
+The oil & gas industry has learned many, many hard lessons over the past 50+ years and has a group of professionals with tacit knowledge which could help the offshore wind industry. 
+
+Partering would get the world "farther along" than continuing to have an adversarial relationship.
 
 <img src="Offshore/Final%20Project%20-%20Part%201%20-%20Sketches%20of%20DataViz.png" width="500" >
 
