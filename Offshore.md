@@ -21,6 +21,8 @@ User stories
 Call to action: encourage the development of offshore oil and gas when available, as it serves the needs of the country and the planet. 
 
 ## Initial Sketches
+![](
+https://github.com/JScmu/JS_DataVizPortfolio_Public/compare/master...Final-Project-Images?expand=1#diff-aacc55103396de0d196f4e1f2e19e3ba
 
 ## Data
 
