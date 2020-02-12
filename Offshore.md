@@ -1,5 +1,6 @@
 ## Final Project Part 1 - Proposal
 Outline
+
 I am interested in showing that offshore oil and gas is a good alternative to fracking in shale formations. 
 There is interest from high profile Presidential candidates in banning fracking.
 While this is a highly charged political talking point - a mature discussion of creating options for long term solutions is necessary.
@@ -18,3 +19,27 @@ Resolution - minimize immediate health and environmental impact by shifting to m
 User stories
 
 Call to action: encourage the development of offshore oil and gas when available, as it serves the needs of the country and the planet. 
+
+## Initial Sketches
+
+## Data
+
+
+## Method and Medium
+
+## Sources
+[Global Wind Atlas](https://globalwindatlas.info/)
+
+[Global Carbon Atlas](http://www.globalcarbonatlas.org/en/CO2-emissions) 
+
+[McKinsey North American Gas Outlook to 2030](https://www.mckinsey.com/industries/oil-and-gas/our-insights/north-american-gas-outlook-to-2030) 
+
+[EIA - Natural gas venting and flaring increased in North Dakota and Texas in 2018](https://www.eia.gov/todayinenergy/detail.php?id=42195)
+
+[US Department of the Interior - Bureau of Ocean Energy Management - GOMR Geographic Information System (GIS) Data and Maps](https://www.boem.gov/oil-gas-energy/mapping-and-data/gomr-geographic-information-system-gis-data-and-maps) 
+
+[NASA Global Climate Change](https://climate.nasa.gov/resources/global-warming-vs-climate-change/)
+
+[Our World in Data - CO2 and Greenhouse Gas Emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions) 
+
+[US Energy Information Administration and St. Louis Federal Reserve Excel Add-in (~1.8 million datasets)](https://www.eia.gov/opendata/excel/)
