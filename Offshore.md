@@ -51,6 +51,8 @@ All data necessary for the idea of unconventional (fracking) vs offshore oil and
 
 There are several opportunities for GIS visualizations of offshore wind potential, onshore drilling activity, offshore platform locations, etc.
 
+[EIA Data](Offshore/EIA%20and%20FRED%20data.xlsx)
+
 ## Method and Medium
 The presentation and story will be told via Shorthand. I am looking forward to learning how to use the platform.
 
