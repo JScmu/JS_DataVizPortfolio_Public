@@ -8,11 +8,11 @@ This is a highly charged issue that has a wide range of important implications o
 There is a lack of understanding of the oil and gas industry from a technical standpoint, a lack of acknowledgement of how the industry is connected to the rest of the real economy, and an incomplete discussion around how to transition to an energy mix more reliant on alternative energy.
 
 Discuss the North Sea oilfield and the adoption of alternative energy in Norway and UK.
-They likely have very little onshore oil and gas activity in their country. I suspect, with the exception of the Piper Alpha tragedy, that they have a great safety record. My hypothesis would be that because the industry is very focused on offshore operations, the corporations develop specialization at the same time the regulatory body is focused on a smaller quantity of operations.
+They likely have very little onshore oil and gas activity. I suspect, with the exception of the Piper Alpha tragedy, that they have a great safety record. My hypothesis would be that because the industry is very focused on offshore operations, the corporations develop a high degree of specialization at the same time the regulatory body is focused on a smaller quantity of operations.
 
 Discuss how building up the offshore industry leads to building up the capability for offshore wind installations. When commissioning a fixed or floating wind turbine installation, you need support vessels, service providers who have critical skills (think of Halliburton/Schlumberger and their cementing operations), and equipment manufacturers to push the boundaries of current technology (subsea pumping stations for O&G - how about subsea electrical substations for offshore wind? super high voltages = smaller conductors = lower costs, etc).
 
-One of the big uses of natural gas (from fracking) is to produce electricity - offset this with offshore wind farms
+One of the big uses of natural gas (from fracking) is to produce electricity - offset this with offshore wind farms? How many, how much, how expensive, how feasible is this idea?
 
 Was the Deepwater Horizon a catastrophe? Yes absolutely. The loss of life was the worst part. 
 
@@ -47,11 +47,10 @@ Partering would get the world "farther along" than continuing to have an adversa
 <img src="Offshore/P1_Sketches_v01.png" width="500" >
 
 ## Data
-All data necessary for the idea of unconventional (fracking) vs offshore oil and gas production is available via the EIA. The link to the Excel Add-in is available below. 
+All data necessary for the idea of unconventional (fracking) vs offshore oil and gas production is available via the EIA. The link to the Excel Add-in is available in the Sources section. The datasets can be downloaded here: [EIA Data](Offshore/EIA%20and%20FRED%20data.xlsx)
 
-There are several opportunities for GIS visualizations of offshore wind potential, onshore drilling activity, offshore platform locations, etc.
+There are several opportunities for GIS visualizations of offshore wind potential, onshore drilling activity, offshore platform locations, etc. I will selectively use these data in order to reinforce specific points about the magnitude of the oil and gas industry, as well as to highlight the amount of overlap between it and offshore wind.
 
-[EIA Data](Offshore/EIA%20and%20FRED%20data.xlsx)
 
 ## Method and Medium
 The presentation and story will be told via Shorthand. I am looking forward to learning how to use the platform.
