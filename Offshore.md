@@ -44,7 +44,7 @@ The oil & gas industry has learned many, many hard lessons over the past 50+ yea
 
 Partering would get the world "farther along" than continuing to have an adversarial relationship.
 
-<img src="Offshore/Final%20Project%20-%20Part%201%20-%20Sketches%20of%20DataViz.png" width="500" >
+<img src="Offshore/P1_Sketches_v01.png" width="500" >
 
 ## Data
 All data necessary for the idea of unconventional (fracking) vs offshore oil and gas production is available via the EIA. The link to the Excel Add-in is available below. 
@@ -72,3 +72,7 @@ The presentation and story will be told via Shorthand. I am looking forward to l
 [Our World in Data - CO2 and Greenhouse Gas Emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions) 
 
 [US Energy Information Administration and St. Louis Federal Reserve Excel Add-in (~1.8 million datasets)](https://www.eia.gov/opendata/excel/)
+
+## Return to Main Portfolio Page
+
+[Link to Main Portfolio Page](README.md)
