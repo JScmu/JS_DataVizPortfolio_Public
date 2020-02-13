@@ -44,7 +44,7 @@ The oil & gas industry has learned many, many hard lessons over the past 50+ yea
 
 Partering would get the world "farther along" than continuing to have an adversarial relationship.
 
-<img src="Offshore/P1_Sketches_v01.png" width="750" >
+<img src="Offshore/P1_Sketches_v01.png" width="650" >
 
 ## Data
 All data necessary for the idea of unconventional (fracking) vs offshore oil and gas production is available via the EIA. The link to the Excel Add-in is available in the Sources section. The datasets can be downloaded here: [EIA Data](Offshore/EIA%20and%20FRED%20data.xlsx)
